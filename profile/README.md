@@ -6,4 +6,6 @@
 
 **RadiantConnect** is a modern Valorant / Riot .NET library, used to communicate with the valorant client as well as game events.
 
+Main C#/Nuget Library located here: https://github.com/RiisDev/RadiantConnect
+
 Also offers a static data web api you can find out about [here](https://docs.radiantconnect.ca/web)
